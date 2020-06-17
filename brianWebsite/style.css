@@ -1,0 +1,30 @@
+.card_header_v2 {
+    font-weight: bolder;
+}
+
+.image_inline {
+    border: 1px solid #555;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100%;
+    width: 100%;
+}
+
+.image_inline_body {
+    width: 100%;
+    height: 150%;
+}
+
+.subtitle {
+    font-style: italic;
+    font-size: 10px;
+    font-weight: bolder;
+    text-align: left;
+}
+
+.subtitle_comparison {
+    font-style: italic;
+    font-size: 20px;
+    font-weight: bolder;
+    text-align: left;
+}
